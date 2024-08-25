@@ -1,0 +1,1 @@
+- Why most creatures are symmetric wrt to the medial-lateral axes? Is there any isymmetric creature?
